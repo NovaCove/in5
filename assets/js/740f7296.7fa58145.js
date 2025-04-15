@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkin_5=self.webpackChunkin_5||[]).push([[814],{1728:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/in5/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

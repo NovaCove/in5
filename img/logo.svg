@@ -1,0 +1,14 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background shield shape -->
+  <path d="M100 10 L180 40 L180 100 C180 150 150 180 100 190 C50 180 20 150 20 100 L20 40 Z" fill="#0066cc" />
+  
+  <!-- Inner shield for depth -->
+  <path d="M100 25 L165 50 L165 100 C165 140 140 165 100 175 C60 165 35 140 35 100 L35 50 Z" fill="#004d99" />
+  
+  <!-- "in5" text -->
+  <text x="100" y="115" font-family="Arial, sans-serif" font-size="70" font-weight="bold" text-anchor="middle" fill="white">in5</text>
+  
+  <!-- Clock icon representing "5 minutes" -->
+  <circle cx="100" cy="60" r="20" fill="white" fill-opacity="0.2" />
+  <path d="M100 45 L100 60 L110 70" stroke="white" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkin_5=self.webpackChunkin_5||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing in5 - Secure Your Environment in 5 Minutes","permalink":"/in5/blog/introducing-in5","unlisted":false,"date":"2025-04-15T00:00:00.000Z"}]}')}}]);

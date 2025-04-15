@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkin_5=self.webpackChunkin_5||[]).push([[17],{1408:e=>{e.exports=JSON.parse('{"authors":[{"name":"NovaCove Team","title":"in5 Core Team","url":"https://github.com/novacove","imageURL":"https://github.com/novacove.png","key":"novacove","page":null,"count":1}]}')}}]);
