@@ -66,4 +66,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## About NovaCove
 
-[NovaCove](https://novacove.ai) is a cybersecurity company focused on building innovative solutions that make security accessible and effective. The in5 initiative is part of our commitment to improving security practices across the industry.
+[NovaCove](https://www.novacove.ai) is a cybersecurity company focused on building innovative solutions that make security accessible and effective. The in5 initiative is part of our commitment to improving security practices across the industry.
