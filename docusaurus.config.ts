@@ -64,6 +64,17 @@ const config: Config = {
   themeConfig: {
     // Social card
     image: 'img/in5-social-card.jpg',
+    metadata: [{
+      name: 'keywords',
+      content: 'in5, in5 security, in5 security tool, in5 security tool for developers, in5 security tool for devops, in5 security tool for cloud, in5 security tool for kubernetes, in5 security tool for docker, in5 security tool for aws, in5 security tool for azure, in5 security tool for gcp',
+    }, {
+      name: 'description',
+      content:'The in5 initiative provides tools and guidance to help you secure your development environment in just 5 minutes, making security accessible to everyone.'
+    },
+    {
+      name: 'google-site-verification',
+      content: 'RPF1IaFO3iAJQLp46zFFt1pFOfFBREMiUyIIvVN48hM',
+    }],
     navbar: {
       title: 'in5',
       logo: {
